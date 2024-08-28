@@ -19,3 +19,10 @@ const name = fullName('ashik');
 console.log(name);
 const dak = fullName('kamal')
 console.log(dak);
+
+function fiends(number = []){
+
+}
+function human(people = {}){
+    
+}
